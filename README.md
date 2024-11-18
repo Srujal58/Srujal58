@@ -1,5 +1,66 @@
-# 💫 About Me:
-🎯Electronics & Telecommunication Graduate with a Post-Graduate Focus in Wireless Telecommunication and Cloud Computing. Passionate about leveraging cutting-edge technology to drive innovation in cloud-based solutions. Eager to apply expertise in cloud computing to contribute effectively to dynamic teams and projects in the tech industry.<br><br>🔭 I’m currently working on AWS Chat bot (LEX)<br><br>🌱 I’m currently learning various  services offered by cloud platforms<br>💬 Ask me about various cloud computing services such as AWS, Azure, Google Cloud Platform, etc.<br>⚡ Fun fact : The term "cloud computing" was coined from using cloud symbols in network diagrams to represent the internet and its services. ☁️💻
+# Srujal Shah's GitHub
+
+## 👨‍💻 About Me
+
+I am a **Cloud Architect** with expertise in designing, implementing, and maintaining cloud solutions across **AWS**, **Azure**, and **GCP**. My background in **Electronics & Telecommunications Engineering** and **Wireless Telecommunications** fuels my passion for cloud technologies, networking, and DevOps.
+
+I hold certifications such as **AWS Certified Solutions Architect**, **HashiCorp Certified Terraform Associate**, and have experience building cloud-native applications using **AWS services** like **EC2**, **S3**, **Lambda**, **EKS**, and **RDS**.
+
+I focus on creating scalable, cost-efficient cloud architectures, driving cloud migration, and designing multi-cloud solutions.
+
+---
+
+## 🚀 Current Projects
+
+### 1. **Serverless Web Application with AWS**  
+A fully functional serverless web app where users can request unicorn rides, built using **AWS Amplify**, **Cognito**, **API Gateway**, **Lambda**, and **DynamoDB**.  
+Key Contributions:
+- Reduced deployment time by 25% using **AWS Amplify** for CI/CD.
+- Achieved a 98% user sign-up rate with **Amazon Cognito**.
+- Built a backend with **AWS Lambda** and **DynamoDB**, handling 500 ride requests per day.
+
+### 2. **To-Do App with Jenkins CI/CD, Docker, and GitHub**  
+Deployed a **To-Do app** with an automated CI/CD pipeline using **Jenkins** for build and deployment, **Docker** for containerization, and **GitHub** for version control.  
+Key Contributions:
+- Reduced deployment time by 40% through **Jenkins** automation.
+- Containerized the application with **Docker** for improved portability.
+- Integrated **GitHub** for version control and collaborative development.
+
+### 3. **Python Monitoring Application with Docker and Kubernetes**  
+A Python-based system monitoring application using **Flask** and **Psutil**, containerized with **Docker**, and orchestrated with **AWS EKS** and **Kubernetes**.  
+Key Contributions:
+- Containerized the app, reducing deployment time by 40%.
+- Deployed using **AWS EKS** for Kubernetes cluster management, ensuring high availability.
+- Achieved 99.9% uptime with automated monitoring and scaling using **Kubernetes**.
+
+---
+
+## 🛠 Technologies & Tools
+
+- **Cloud Platforms:** AWS (EC2, S3, Lambda, EKS, RDS), Azure, GCP
+- **DevOps & CI/CD:** Jenkins, GitHub, Docker, Kubernetes, Terraform
+- **Programming Languages:** Python, Shell scripting (Bash), HTML
+- **Infrastructure Tools:** Terraform, AWS CloudFormation
+- **Networking & Security:** VPC, IAM, VPN, CloudFront, Load Balancing
+- **Operating Systems:** Linux, Windows, MacOS
+
+---
+
+## 🌱 Learning Focus
+
+- Exploring **AWS Lambda**, **Amazon API Gateway**, and **Kubernetes** for serverless and microservices architecture.
+- Enhancing knowledge in **multi-cloud** architectures and **cloud migration strategies**.
+- Deepening understanding of **cloud security** practices, including **IAM** and **Secrets Management** with **HashiCorp Vault**.
+
+---
+
+## 📚 Certifications
+
+- **AWS Certified Solutions Architect - Associate**  
+- **HashiCorp Certified Terraform Associate**  
+- **AWS Certified Cloud Practitioner**
+- **AWS Cloudfront Configuration**  
+
 
 
 ## 🌐 Socials:
