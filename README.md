@@ -57,9 +57,9 @@ Key Contributions:
 ## 📚 Certifications
 
 - **AWS Certified Solutions Architect - Associate**  
-- **HashiCorp Certified Terraform Associate**  
+- **HashiCorp Certified Terraform - Associate**  
 - **AWS Certified Cloud Practitioner**
-- **AWS Cloudfront Configuration**  
+- **AWS Cloudfront Distribution with S3**  
 
 
 
